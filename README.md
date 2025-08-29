@@ -23,13 +23,13 @@ return name;
 It returns 0.
 
 ## Data Types
-0 :int  OR byte, short, long  
-"hello" : String  
-101 : int OR byte, short, long  
--1 : int OR byte, short, long  
-true : Boolean  
-"33" : String  
-3.1415 : float OR double  
+**0** :int  OR byte, short, long  
+**"hello"** : String  
+**101** : int OR byte, short, long  
+**-1** : int OR byte, short, long  
+**true** : Boolean  
+**"33"** : String  
+**3.1415** : float OR double  
 
 **What would you have to do to add a new field, for example one called name, to a circle object?**  
 ``` java
