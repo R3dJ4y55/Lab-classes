@@ -35,7 +35,22 @@ true : Boolean
 ``` java
 private String name;
 ```
+**Write the header for a method named send that has one parameter of type String, and does not
+return a value.**  
+``` java
+public send(String)
+```
+**Write the header for a method named average that has two parameters, both of type int, and
+returns an int value.**  
+``` java
+public average(int value1, int value2)
+```
+**. Look at the book you are reading now. Is it an object or a class? If it is a class, name some objects.
+If it is an object, name its class.**  
 
-
+**My** book is an object. Its class is the idea of a book.  
+  
+**Can an object have several classes?**  
+Yes. A class defines an objects properties, some properties are shared. For example, a square could also be a rectangle, and a sphere and ellipse.
 
 
